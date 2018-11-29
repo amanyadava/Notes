@@ -1,0 +1,9 @@
+# Installing MinGW
+
+MinGW -> Minimum GCC on Windows
+
+## MinGW vs MinGW-w64 vs MinGW-builds
+MinGW can build only 32 bit applications, MinGW-w64 contains source for MinGW that can build both 32-bit and 64-bit applications. MinGW-builds contains built binaries for MinGW-w64. More details at <https://stackoverflow.com/questions/25582110/what-is-the-difference-between-mingw-mingw-w64-and-mingw-builds>.
+
+## Steps to install MinGW-w64
+<https://stackoverflow.com/questions/29947302/meaning-of-options-in-mingw-w64-installer>
